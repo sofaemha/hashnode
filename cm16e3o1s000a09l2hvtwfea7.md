@@ -111,6 +111,8 @@ Moderator menyampaikan kesimpulan yang dapat diambil dari pembahasan panjang pad
 
 Kegiatan ini ditutup oleh MC dan diakhiri dengan foto bersama. Beberapa hari kemudian, Sinar Pagi NEWS Tegal menerbitkan berita [Pathways To Success : Navigating Students Career Preparation](https://sinarpaginews.com/pendidikan/74384/pathways-to-success-navigating-students-career-preparation.html) di situs resminya.
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1726575325556/fff10b70-e791-48ad-8faa-d8acde4ebf30.jpeg align="center")
+
 ---
 
 ## Catatan Kaki
