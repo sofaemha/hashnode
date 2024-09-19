@@ -3,6 +3,7 @@ title: "Kurikulum Sarjana Informatika"
 datePublished: Thu Sep 19 2024 12:49:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm19ah3z8002q0amjepfjb89c
 slug: kurikulum-sarjana-informatika-upstegal
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726755530484/43778d03-4bdd-4ddd-822f-b99194ce5040.jpeg
 
 ---
 
