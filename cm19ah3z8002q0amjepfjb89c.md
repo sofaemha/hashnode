@@ -35,7 +35,7 @@ Menjadi program studi yang unggul dibidang literasi rekayasa berbasis AI (Artiff
 | I | GE621204 | Logika Informatika | 3 |
 | I | GE621302 | Fisika Dasar | 3 |
 | I | GE621305 | Pengantar Informatika | 3 |
-| I | GE621403 | Algritma Dan Dasar Pemrograman | 3 |
+| I | GE621403 | Algritma dan Dasar Pemrograman | 3 |
 | I | UP662102 | Pendidikan Pancasila | 2 |
 | I | UP662104 | Pendidikan Bahasa Indonesia | 2 |
 | I | UP662106 | Pendidikan Literasi | 2 |
@@ -44,8 +44,8 @@ Menjadi program studi yang unggul dibidang literasi rekayasa berbasis AI (Artiff
 | II | GE621207 | Kalkulus Integral | 2 |
 | II | GE621308 | Struktur Data | 3 |
 | II | GE621309 | Pemrograman Komputer | 3 |
-| II | GE621410 | Arsitektur Dan Organisasi Komputer | 4 |
-| II | UP662101 | Pend. Agama Islam | 2 |
+| II | GE621410 | Arsitektur dan Organisasi Komputer | 4 |
+| II | UP662101 | Pendidikan Agama Islam | 2 |
 | II | UP662105 | Bahasa Inggris | 2 |
 | II | UP662107 | Kewirausahaan | 2 |
 |  |  | ***Sub Total*** | ***20*** |
@@ -59,7 +59,7 @@ Menjadi program studi yang unggul dibidang literasi rekayasa berbasis AI (Artiff
 | III | UP662103 | Pendidikan Kewarganegaraan | 2 |
 |  |  | ***Sub Total*** | ***20*** |
 | IV | GE621217 | Metode Numerik | 2 |
-| IV | GE621222 | Analisis Dan Perancangan Sistem | 3 |
+| IV | GE621222 | Analisis dan Perancangan Sistem | 3 |
 | IV | GE621223 | Kecerdasan Buatan | 2 |
 | IV | GE621224 | E-Bussines | 2 |
 | IV | GE621318 | Pemrograman Berorientasi Object | 3 |
@@ -72,16 +72,16 @@ Menjadi program studi yang unggul dibidang literasi rekayasa berbasis AI (Artiff
 | V | GE621227 | Data Mining | 3 |
 | V | GE621228 | Pemrograman Framework | 3 |
 | V | GE621229 | Metodologi Penelitian | 2 |
-| V | GE621230 | Iot (Internet Of Thing) | 2 |
+| V | GE621230 | Internet of Things | 2 |
 | V | GE621231 | Jaringan Komputer | 2 |
 | V | GE621232 | Rekayasa Perangkat Lunak | 2 |
-| V | GE621233 | Interaksi Manusia Dan Komputer | 2 |
+| V | GE621233 | Interaksi Manusia dan Komputer | 2 |
 |  |  | ***Sub Total*** | ***20*** |
 | VI | GE621348 | Kriptografi | 2 |
 | VI | GE621352 | Manajemen Sistem Informasi | 2 |
 | VI | GE621359 | Mobile Programming | 3 |
 | VI | G6662102 | Praktek Kerja Lapangan | 2 |
-| VI | GE621337 | Robotic | 3 |
+| VI | GE621337 | Robotik | 3 |
 | VI | GE621238 | Sistem Informasi Geografis | 3 |
 | VI | GE621234 | Sistem Multimedia | 2 |
 | VI | GE621236 | Teknologi Animasi | 3 |
@@ -101,7 +101,7 @@ Menjadi program studi yang unggul dibidang literasi rekayasa berbasis AI (Artiff
 | VII | GE621368 | Wireless Sensor Network | 3 |
 | VII | GE621370 | Game Development | 3 |
 | VII | GE621371 | Computer Vision | 3 |
-| VII | GE621372 | Teknologi Blockcain | 3 |
+| VII | GE621372 | Teknologi Blockchain | 3 |
 |  |  | ***Sub Total*** | ***12*** |
 |  |  | **Total** | **12** |
 
