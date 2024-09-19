@@ -117,7 +117,7 @@ Kegiatan ini ditutup oleh MC dan diakhiri dengan foto bersama. Beberapa hari kem
 
 ## Catatan Kaki
 
-<details data-node-type="hn-details-summary"><summary>Disusun Oleh :</summary><div data-type="detailsContent"><strong>Sofa </strong>Machabba Haeta</div></details><details data-node-type="hn-details-summary"><summary>Dosen Pembimbing :</summary><div data-type="detailsContent">Hasbi Firmansyah, M.Kom.</div></details><details data-node-type="hn-details-summary"><summary>Tautan Berkas</summary><div data-type="detailsContent"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/sofaemha/archive/blob/main/kuliah/2024-4/Tugas%20Seminar%20Bulanan.pdf" style="pointer-events: none">GitHub : Tugas Seminar Bulanan.pdf</a></div></details>
+<details data-node-type="hn-details-summary"><summary>Disusun Oleh :</summary><div data-type="detailsContent"><strong>Sofa </strong>Machabba Haeta</div></details><details data-node-type="hn-details-summary"><summary>Mata Kuliah :</summary><div data-type="detailsContent">Pengolahan Citra Digital</div></details><details data-node-type="hn-details-summary"><summary>Dosen Pembimbing :</summary><div data-type="detailsContent">Hasbi Firmansyah, M.Kom.</div></details><details data-node-type="hn-details-summary"><summary>Tautan Berkas</summary><div data-type="detailsContent"><a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/sofaemha/archive/blob/main/kuliah/2024-4/Tugas%20Seminar%20Bulanan.pdf" style="pointer-events: none">GitHub : Tugas Seminar Bulanan.pdf</a></div></details>
 
 > Program Studi Informatika S1  
 > Fakultas Teknik dan Ilmu Komputer  
