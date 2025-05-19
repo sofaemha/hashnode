@@ -1,5 +1,5 @@
 ---
-title: "Kurikulum Sarjana Informatika"
+title: "Kurikulum Sarjana Informatika Universitas Pancasakti Tegal"
 datePublished: Thu Sep 19 2024 12:49:42 GMT+0000 (Coordinated Universal Time)
 cuid: cm19ah3z8002q0amjepfjb89c
 slug: kurikulum-sarjana-informatika-upstegal
