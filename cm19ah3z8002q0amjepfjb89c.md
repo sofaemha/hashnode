@@ -1,6 +1,6 @@
 ---
 title: "Kurikulum Sarjana Informatika Universitas Pancasakti Tegal Tahun 2021-2025"
-datePublished: Thu Sep 19 2024 12:49:42 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-19T12:49:42.500Z
 cuid: cm19ah3z8002q0amjepfjb89c
 slug: kurikulum-sarjana-informatika-upstegal
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726755728342/3cde9e8d-5142-4522-bf67-902cdfdb70ea.jpeg
