@@ -1,6 +1,6 @@
 ---
 title: "Apa itu website?"
-datePublished: Fri Mar 03 2023 13:57:19 GMT+0000 (Coordinated Universal Time)
+datePublished: 2023-03-03T13:57:19.922Z
 cuid: cleslnxde000h09l52ajsa5nu
 slug: apa-itu-website
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726467957530/ac7daea2-a45d-4d97-a843-9ffb7927c402.jpeg
