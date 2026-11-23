@@ -1,6 +1,6 @@
 ---
 title: "Pathways To Success : Navigating Students Career Preparation"
-datePublished: Tue Sep 17 2024 12:07:55 GMT+0000 (Coordinated Universal Time)
+datePublished: 2024-09-17T12:07:55.264Z
 cuid: cm16e3o1s000a09l2hvtwfea7
 slug: pathways-to-success-navigating-students-career-preparation
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1726755977801/02da292a-4525-436f-a63d-3ce51f1bdb35.jpeg
